@@ -19,7 +19,7 @@ Let me tell you a bit about myself <img src="https://slackmojis.com/emojis/60372
 * 🧐 A quirky fact about me: I'm obsessed with optimizing everything - from code performance to keeping my desk aesthetically pleasing!
 
 <p align="left">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 </p>
 
 ## 🚀 Latest Projects
