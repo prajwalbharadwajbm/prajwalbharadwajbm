@@ -1,12 +1,12 @@
 <h1 style="color: #333;">👋 Hi, I'm <span style="background: linear-gradient(to right, #3498db, #2c3e50); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-weight: bold;">Prajwal Bharadwaj</span>, you can call me <span style="background: linear-gradient(to right, #5D8AA8, #8674A1); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-weight: bold;">Praje!</span></h1>
 
-![Profile Views](https://komarev.com/ghpvc/?username=prajwalbharadwajbm)
+![](https://komarev.com/ghpvc/?username=prajwalbharadwajbm&color=0891b2&style=for-the-badge&label=PROFILE+VIEWS)
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/prajwal-bharadwaj-bm/)
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://prajwalbm.com)
-[![GitHub Badge](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/prajwalbharadwajbm)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://www.linkedin.com/in/prajwal-bharadwaj-bm/)
+[![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white&labelColor=5294E2)](https://prajwalbm.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=24292E)](https://github.com/prajwalbharadwajbm)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&weight=600&size=36&duration=3000&pause=1000&color=4285F4&background=FFFFFF00&center=true&vCenter=true&width=800&height=80&lines=Hello+there%2C+I'm+Prajwal!;Backend+Engineering;Cloud+Native+Architecture;Go+%26+Azure+Enthusiast;Building+high-performance+%26+Docker+scalable+systems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=1000&lines=Hello+there%2C+I'm+Prajwal!;Turning+coffee+into+Go+code+since+2023;My+APIs+are+faster+than+your+dad+jokes;I+speak+fluent+Go%2C+and+my+code+speaks+for+itself;Turning+'it+works+on+my+machine'+into+'it+works+everywhere')](https://git.io/typing-svg)
 
 * 👾 Code whisperer who makes APIs run faster than my morning coffee kicks in! 
 * Backend wizard (Go + Azure) by day, desk-organizer by night.
