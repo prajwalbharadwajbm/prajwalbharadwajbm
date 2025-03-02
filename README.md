@@ -6,7 +6,7 @@
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://prajwalbm.com)
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/prajwalbharadwajbm)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&weight=600&size=36&duration=3000&pause=1000&color=4285F4&background=FFFFFF00&center=true&vCenter=true&width=800&height=60&lines=Hello+there%2C+I'm+Prajwal!;Backend+Engineering;Cloud+Native+Architecture;Go+%26+Azure+Enthusiast;Building+high-performance+%26+Docker+scalable+systems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&weight=600&size=36&duration=3000&pause=1000&color=4285F4&background=FFFFFF00&center=true&vCenter=true&width=800&height=80&lines=Hello+there%2C+I'm+Prajwal!;Backend+Engineering;Cloud+Native+Architecture;Go+%26+Azure+Enthusiast;Building+high-performance+%26+Docker+scalable+systems)](https://git.io/typing-svg)
 
 * 👾 Code whisperer who makes APIs run faster than my morning coffee kicks in! 
 * Backend wizard (Go + Azure) by day, desk-organizer by night.
