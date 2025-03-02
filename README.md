@@ -1,4 +1,4 @@
-## Hi, I'm Prajwal Bharadwaj, you can call me Praje!
+<h1 style="color: #333;">👋 Hi, I'm <span style="background: linear-gradient(to right, #3498db, #2c3e50); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-weight: bold;">Prajwal Bharadwaj</span>, you can call me <span style="color: #E8917C; font-weight: bold;">Praje!</span>h1>
 ![Profile Views](https://komarev.com/ghpvc/?username=prajwalbharadwajbm)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/prajwal-bharadwaj-bm/)
