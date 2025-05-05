@@ -1,4 +1,4 @@
-<h1 style="color: #333;">👋 Hi, I'm <span style="background: linear-gradient(to right, #3498db, #2c3e50); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-weight: bold;">Prajwal Bharadwaj</span>, you can call me <span style="background: linear-gradient(to right, #5D8AA8, #8674A1); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-weight: bold;">Praje!</span></h1>
+<h1 style="color: #333;">Hi, I'm <span style="background: linear-gradient(to right, #3498db, #2c3e50); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-weight: bold;">Prajwal Bharadwaj</span></h1>
 
 ![](https://komarev.com/ghpvc/?username=prajwalbharadwajbm&color=0891b2&style=for-the-badge&label=PROFILE+VIEWS)
 
