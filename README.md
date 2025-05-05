@@ -9,11 +9,11 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=1000&lines=Hello+there%2C+I'm+Prajwal!;Turning+coffee+into+Go+code+since+2023;My+APIs+are+faster+than+your+dad+jokes;I+speak+fluent+Go%2C+and+my+code+speaks+for+itself;Turning+'it+works+on+my+machine'+into+'it+works+everywhere')](https://git.io/typing-svg)
 
-* 👾 Code whisperer who makes APIs run faster than my morning coffee kicks in! 
-* 🪄 Backend wizard (Go + Azure) by day, desk-organizer by night.
-* 🚀 Tamed a 50TB data beast with Go - Zmanda Pro Oracle backups are faster than your internet speed!
-* 🤖 Built a chatbot with LangChain, OpenAI, and QDRANT, so smart it now answers questions I haven't even asked yet xD.
-* 📦 My Docker containers are more organized than my life, and my microservices architecture is the only relationship I can commit to.
+* 👨‍💻 Code whisperer who optimizes APIs faster than your coffee brews—Go and Azure are my weapons of choice.
+* 🔧 Backend craftsman by day (Go + distributed systems), desk declutterer by night.
+* 📀 Tamed a 50TB Oracle RMAN beast—cut backup time in half with Go pipelines and a custom CLI tool at Zmanda Pro.
+* 🧠 Built a GenAI chatbot with LangChain, OpenAI, and Qdrant—it's so smart, it finishes my thoughts.
+* 📦 Docker is my jam, microservices my long-term commitment—because clean architecture > messy relationships.
 
 <p align="left">
   <i>"Software engineering is what happens to programming when you add time and other programmers."</i><br>
