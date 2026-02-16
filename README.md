@@ -7,25 +7,26 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=24292E)](https://github.com/prajwalbharadwajbm)
 [![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white&labelColor=E34C26)](https://blog.prajwalbm.com)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=1000&lines=Hello+there%2C+I'm+Prajwal!;Turning+coffee+into+Go+code+since+2023;My+APIs+are+faster+than+your+dad+jokes;I+speak+fluent+Go%2C+and+my+code+speaks+for+itself;Turning+'it+works+on+my+machine'+into+'it+works+everywhere')](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=1000&lines=Backend+Engineer+at+Wobot.ai;Bridging+the+gap+between+Go+and+GenAI;Scaling+GPU+nodes+with+Karpenter;Building+LogDoc:+The+AI+Log+Assistant;Digital+Minimalist+and+Backend+Architect)](https://git.io/typing-svg)
 
-* 👨‍💻 Code whisperer who optimizes APIs faster than your coffee brews—Go and Azure are my weapons of choice.
-* 🔧 Backend craftsman by day (Go + distributed systems), desk declutterer by night.
-* 📀 Tamed a 50TB Oracle RMAN beast—cut backup time in half with Go pipelines and a custom CLI tool at Zmanda Pro.
-* 🧠 Built a GenAI chatbot with LangChain, OpenAI, and Qdrant—it's so smart, it finishes my thoughts.
-* 📦 Docker is my jam, microservices my long-term commitment—because clean architecture > messy relationships.
+* **Backend Architect** | Developing distributed systems at **Wobot.ai** and optimizing high-performance Go microservices.
+* **AI/ML Engineering** | Transitioning into AI Engineering—currently developing **LogDoc**, a proof-of-concept agent for automated log analysis and troubleshooting.
+* **Cloud Infrastructure** | Managing GPU node orchestration using **Karpenter** and Kubernetes to ensure seamless scalability for AI workloads.
+* **Human Logging Project** | Engineering a "Second Brain" iOS application focused on personal data logging and digital minimalism.
+* **Personal Interests** | Beyond the terminal, I focus on digital minimalism, solo motorcycle expeditions, and classical literature.
 
 <p align="left">
   <i>"Software engineering is what happens to programming when you add time and other programmers."</i><br>
-  — Russ Cox, GopherCon Singapore 2018
+  — Russ Cox
 </p>
 
-## 🚀 Latest Projects
+## Technical Projects
 
+* **LogDoc**: An AI-driven agent designed to parse and analyze complex log files to accelerate root-cause analysis.
 - [Go Movie Server](https://github.com/prajwalbharadwajbm/LetsGoFurther/tree/main/greenlight): Learning Clean and Efficient Go Code
 - [File Upload Service](https://github.com/prajwalbharadwajbm/GoLinkify): Memory-efficient file upload service with chunked resumable uploads
 - [GoLinkify](https://github.com/prajwalbharadwajbm/GoLinkify): Your Go-To URL Shortener Solution
 
-## 👨‍💻 Github Stats
+## GitHub Statistics
 
 ![Metrics](/github-metrics.svg)
