@@ -22,7 +22,7 @@
 
 ## Technical Projects
 
-* **LogDoc**: An AI-driven agent designed to parse and analyze complex log files to accelerate root-cause analysis.
+* [LogDoc](https://github.com/prajwalbharadwajbm/logdoc): An AI-driven agent designed to parse and analyze complex log files to accelerate root-cause analysis.
 - [Go Movie Server](https://github.com/prajwalbharadwajbm/LetsGoFurther/tree/main/greenlight): Learning Clean and Efficient Go Code
 - [File Upload Service](https://github.com/prajwalbharadwajbm/GoLinkify): Memory-efficient file upload service with chunked resumable uploads
 - [GoLinkify](https://github.com/prajwalbharadwajbm/GoLinkify): Your Go-To URL Shortener Solution
